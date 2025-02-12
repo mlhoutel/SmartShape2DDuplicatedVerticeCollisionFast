@@ -1,5 +1,9 @@
 # SmartShape2D duplicated vertice collision fast
 
+## Linked issue
+
+https://github.com/SirRamEsq/SmartShape2D/issues/184
+
 ## Description
 
 This project demonstrates an issue when using the **SmartShape2D** plugin with **Rapier2D** in Godot 4.3. The issue occurs when associating a `CollisionPolygon2D` with `SS2D_Shape` and setting the collision generation method to **Fast**.
